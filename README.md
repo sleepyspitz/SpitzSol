@@ -1,4 +1,4 @@
-# Mugambi_TinDog
+# TinDog
 
-Hello. This is my peronal take on the Tindog website project on Angela Yu's Python course.
+Hello. This is my peronal take on the Sleepy Spitz website project.
 I hope you like it!
